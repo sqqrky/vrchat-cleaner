@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vrchat-cleaner/vrchat-cleaner.vcxproj" Id="321cc18c-998a-45f6-9f4a-e993b3620d6d" />
+</Solution>
