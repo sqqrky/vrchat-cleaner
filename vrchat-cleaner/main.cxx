@@ -1,6 +1,4 @@
  #include <impl/includes.h>
-#include <src/hosts/hosts.hxx>
-
 /*
     if you really wanna be safe, use the vrchat eac emulator, this is just for ppl who spoof serials n shit
     small project, i based this off of what i was told, deal w endpoints, general trace info, reg, folders, etc.
